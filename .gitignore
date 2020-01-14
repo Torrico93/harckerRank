@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 *.iml
 out/*
 .idea/*
+=======
+out
+.idea
+EjercicioLoops.iml
+>>>>>>> 7ca1808ae1a644b65641ee2da18b718de7b43755
